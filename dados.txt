@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Beatriz Puça de Araújo
+-Profissão: Analista de QA
+-Cidade: Arraial do Cabo
+-O que faz nas horas vaga: Ver séries e passear com a família.
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito do curso. Estou aprendendo e aplicando o aprendizado no trabalho.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma de fácil uso.
 
 Obrigado!!!
 
